@@ -1,0 +1,33 @@
+{
+  "name": "full-stack-project-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "jest",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksmith10309/full-stack-project-web-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksmith10309/full-stack-project-web-server/issues"
+  },
+  "homepage": "https://github.com/ksmith10309/full-stack-project-web-server#readme",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-register": "^6.26.0",
+    "dotenv": "^6.1.0",
+    "ejs": "^2.6.1",
+    "eslint": "^5.9.0",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  }
+}

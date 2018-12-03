@@ -8,7 +8,7 @@
         "media": {
           "alt": "Mood Fellows Screen Shot",
           "title": "Mood Fellows Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/moodfellows.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/moodfellows.jpg"
         },
         "links": [
           {
@@ -29,7 +29,7 @@
         "media": {
           "alt": "Raccoon City Screen Shot",
           "title": "Raccoon City Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/raccooncity.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/raccooncity.jpg"
         },
         "links": [
           {
@@ -55,7 +55,7 @@
         "media": {
           "alt": "Simon Game Screen Shot",
           "title": "Simon Game Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/simon.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/simon.jpg"
         },
         "links": [
           {
@@ -76,7 +76,7 @@
         "media": {
           "alt": "Tic Tac Toe Screen Shot",
           "title": "Tic Tac Toe Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/tictactoe.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/tictactoe.jpg"
         },
         "links": [
           {
@@ -97,7 +97,7 @@
         "media": {
           "alt": "Pomodoro Clock Screen Shot",
           "title": "Pomodoro Clock Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/pomodoro.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/pomodoro.jpg"
         },
         "links": [
           {
@@ -117,8 +117,8 @@
         "copy": "A calculator that performs multiplication, division, addition, and subtraction",
         "media": {
           "alt": "JS Calculator Screen Shot",
-          "title": "JavaScript Calculator Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/calculator.jpg"
+          "title": "JS Calculator Screen Shot",
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/calculator.jpg"
         },
         "links": [
           {
@@ -139,7 +139,7 @@
         "media": {
           "alt": "Twitch API App Screen Shot",
           "title": "Twitch API App Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/twitch.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/twitch.jpg"
         },
         "links": [
           {
@@ -160,7 +160,7 @@
         "media": {
           "alt": "Wikipedia Viewer Screen Shot",
           "title": "Wikipedia Viewer Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/wikipedia.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/wikipedia.jpg"
         },
         "links": [
           {
@@ -181,7 +181,7 @@
         "media": {
           "alt": "Weather App Screen Shot",
           "title": "Weather App Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/weather.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/weather.jpg"
         },
         "links": [
           {
@@ -207,7 +207,7 @@
         "media": {
           "alt": "Asteroids Spaceship Screen Shot",
           "title": "Asteroids Spaceship Screen Shot",
-          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/public/images/asteroids.jpg"
+          "href": "https://raw.githubusercontent.com/ksmith10309/full-stack-project-web-server/master/public/images/asteroids.jpg"
         },
         "links": [
           {
